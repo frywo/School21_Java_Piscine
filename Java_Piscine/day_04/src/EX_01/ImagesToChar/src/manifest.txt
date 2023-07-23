@@ -1,0 +1,1 @@
+Main-Class: javas/edu/school21/printer/app/Main
